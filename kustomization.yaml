@@ -1,5 +1,6 @@
 bases:
 - components/1-actual/base
+- components/basic-node-js/base
 - components/basic-quarkus/base
 resources:
 - common-storage-pvc.yaml
