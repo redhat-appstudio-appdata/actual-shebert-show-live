@@ -1,4 +1,5 @@
 bases:
 - components/1-actual/base
+- components/basic-quarkus/base
 resources:
 - common-storage-pvc.yaml
